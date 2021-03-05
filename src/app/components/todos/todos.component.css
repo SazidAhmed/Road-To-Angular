@@ -23,6 +23,7 @@
 
 .todo.done .content {
 	text-decoration: line-through;
+	text-decoration-color: red;
 }
 
 .todo-input {
