@@ -1,0 +1,3 @@
+ng serve --open
+ng -v
+ng g c components/Todos
